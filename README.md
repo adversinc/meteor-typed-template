@@ -1,0 +1,1 @@
+meteor-typed-template
