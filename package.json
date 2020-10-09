@@ -1,0 +1,12 @@
+{
+  "name": "meteor-typed-template",
+  "version": "1.0.0",
+  "description": "TypeScript definition for Meteor template",
+  "main": "index.ts",
+  "repository": "https://github.com/adversinc/meteor-typed-template.git",
+  "author": "Glaznah Gassner <dinofabrello@slbiz2life.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/meteor": "^1.4.49"
+  }
+}
