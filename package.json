@@ -1,6 +1,6 @@
 {
   "name": "meteor-typed-template",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "TypeScript definition for Meteor template",
   "main": "index.ts",
   "repository": "https://github.com/adversinc/meteor-typed-template.git",
